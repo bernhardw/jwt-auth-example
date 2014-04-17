@@ -1,0 +1,12 @@
+[{
+    "id": 1,
+    "user": 2,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "content": "Far out in the uncharted backwaters of the unfashionable end of the western spiral arm of the Galaxy [...]",
+    "editors": [3]
+}, {
+    "id": 2,
+    "user": 999,
+    "title": "Around the World in 80 Days",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque ipsum ut sem [...]"
+}]
